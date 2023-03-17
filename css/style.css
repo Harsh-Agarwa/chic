@@ -1,0 +1,46 @@
+
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            background-color: red;
+        }
+
+        .box {
+            margin: 15px;
+            padding: 15px;
+            height: 40vh;
+            background-color: brown;
+            color: black;
+        }
+
+        .box h3 {
+            background-color: yellow;
+            color: black;
+        }
+
+        .box p {
+            background-color: brown;
+            color: black;
+        }
+
+        .box1 {
+            margin: 15px;
+            padding: 15px;
+            height: 40vh;
+            background-color: green;
+            color: pink;
+        }
+
+        .box1 h3 {
+            background-color: green;
+            color: pink;
+        }
+
+        .box1 p {
+            background-color: violet;
+            color: green;
+        }
+    
